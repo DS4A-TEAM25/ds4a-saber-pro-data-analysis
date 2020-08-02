@@ -36,6 +36,6 @@ Below we list the contents of the folders in this repository:
 
 Below we detail how all the files are related, both between each other and to the raw data. 
 
-![directory tree](/assets/file_relation.png)
+![file relation](/assets/file_relation.PNG)
 
 
