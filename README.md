@@ -30,6 +30,7 @@ The raw data was obtained from: https://www.datos.gov.co/
 Below we list the contents of the folders in this repository:
 
 
+![directory tree](/assets/directory tree.png)
 
 ### File Relation
 
