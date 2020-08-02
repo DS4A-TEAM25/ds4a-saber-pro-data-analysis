@@ -34,7 +34,7 @@ Below we list the contents of the folders in this repository:
 
 ### File Relation
 
-Below we detail how all the files are related, both between each other and to the raw data. 
+Below we detail how all the files are related. 
 
 ![file relation](/assets/file_relation.PNG)
 
