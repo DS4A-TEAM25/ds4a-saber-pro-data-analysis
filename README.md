@@ -2,7 +2,7 @@
 
 # SABER PRO Data Analysis Repo 
 
-This Repo stores data cleaning and preparation, AWS integration and data analysis notebooks of Team 25 for the *Analyzing and Predicting Performance on the SABER PRO* project created for DS4A. 
+This repository stores data cleaning and preparation, AWS integration and data analysis notebooks of Team 25 for the *Analyzing and Predicting Performance on the SABER PRO* project created for DS4A. 
 
 ## Introduction
 
@@ -27,6 +27,7 @@ The raw data was obtained from: https://www.datos.gov.co/
 
 ### Folder Structure
 
+Below we list the contents of the folders in this repository:
 
 
 
