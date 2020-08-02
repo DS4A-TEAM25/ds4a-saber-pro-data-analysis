@@ -21,7 +21,7 @@ As well as files for
 * Basic Education Indicators
 * State and city locations
 
-The raw data was obtained from: https://www.datos.gov.co/
+For space reasons, the raw data is not inside this repository but you can find it at: https://www.datos.gov.co/
 
 ## File Description
 
@@ -34,6 +34,8 @@ Below we list the contents of the folders in this repository:
 
 ### File Relation
 
+Below we detail how all the files are related, both between each other and to the raw data. 
 
+![directory tree](/assets/file_relation.png)
 
 
